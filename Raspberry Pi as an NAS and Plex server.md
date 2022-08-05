@@ -1,4 +1,4 @@
-# Raspberry Pi as an NAS server
+# Raspberry Pi as an NAS and Plex server
 
 To create a Raspberry Pi NAS, you will first need to get the necessary equipment. 
 - Of course, the minicomputer itself is the focal point: you can choose between the Raspberry Pi 2 and the newer Raspberry Pi 3, both of which have enough power to run the server.
