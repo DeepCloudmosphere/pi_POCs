@@ -114,3 +114,8 @@ Make some configuration on OpenMediaVault so it will work as NAS.
 #### For mac
 
 - Enter `COMMAND+K` and enter `smb://<ip of raspberrypi>` and connect it so, you are able to access your share folder.
+
+
+#### After setting up you can also configure as a plex server so it will become so cool.
+# How to Setup a Raspberry Pi Plex Server
+Go to -> https://pimylifeup.com/raspberry-pi-plex-server/#:~:text=Plex%20is%20a%20client%2Dserver,connect%20to%20the%20same%20server
